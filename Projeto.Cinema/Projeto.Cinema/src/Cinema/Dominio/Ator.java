@@ -24,5 +24,5 @@ public class Ator extends BaseIdentificador{
     @Override
     public String toString() {
         return "Ator [codigo=" + codigo + "nome=" + nome + ", papelDoAtor=" + papelDoAtor + "]";
-    }    
+    } 
 }
